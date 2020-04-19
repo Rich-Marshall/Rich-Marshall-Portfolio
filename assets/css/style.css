@@ -6046,6 +6046,14 @@ address p {
     background: url("../img/post/p9.jpg") left 100px no-repeat !important;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
 /*==============================================
  Responsive
  ===============================================*/
